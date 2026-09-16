@@ -1,0 +1,4 @@
+name = "wb-demo-api"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+account_id = "ab78f394ced4189b05ce47a2810ed17e"
